@@ -24,10 +24,6 @@
 			]
 		},
 		{
-			"Name": "DatasmithImporter",
-			"Enabled": true
-		},
-		{
 			"Name": "PCG",
 			"Enabled": true
 		}
